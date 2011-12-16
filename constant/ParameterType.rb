@@ -1,0 +1,7 @@
+class ParameterType
+  NTHREAD_PARAM = 1
+  NPROCS_PARAM = 2
+  NROWS_PARAM = 3
+  NCOLS_PARAM = 4
+  NGHOSTZONES_PARAM = 5
+end
